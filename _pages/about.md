@@ -100,7 +100,7 @@ Master Thesis, 2023
 # 📖 Education and Work
 
 - [Research Institute](https://www.sensetime.com/cn), SenseTime
-  - *2024.05 - now*, Machine Learning Algorithm Engineering
+  - *2024.05 - now*, Machine Learning Algorithm Engineer
 
 - [Computer Vision Insitute](http://cv.szu.edu.cn/), Shenzhen University
   - *2023.08 - 2024.03*, Research Assistant
