@@ -67,14 +67,28 @@ Master Thesis, 2023
 </div>
 </div>
 
-### others
+### Others
 - [Generalized Multiview Regression for Feature Extraction.](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011556)  \| [\[pdf\]](files/GMR.pdf)
 - Graduation Thesis: Matrix Optimization Framework of Subspace Learning. \| [\[pdf\]](files/子空间学习的矩阵优化框架.pdf)
 
 # 🎖 Honors and Awards
 
-- *2021*, GPA: 3.52 / 4.0, Rank: 8 / 69
-- *2019*, GPA: 4.03 / 4.5, Rank: 3 / 42
+<!-- - *2021*, GPA: 3.52/4.0,    Rank: 8/69
+- *2019*, GPA: 4.03/4.5,    Rank: 3/42 -->
+<!-- - *2021*, M.S. GPA and Rank:
+  - GPA: 3.52/4.0
+  - Rank: 8/69
+- *2019*, B.S. GPA and Rank:
+  - GPA: 4.03/4.5
+  - Rank: 3/42 -->
+
+<!-- - GPA and Rank:
+  - *2021*, M.S. GPA: 3.52/4.0, Rank: 8/69
+  - *2019*, B.S. GPA: 4.03/4.5, Rank: 3/42 -->
+  
+- GPA and Rank:
+  - M.S., GPA: 3.52/4.0, Rank: 8/69
+  - B.S., GPA: 4.03/4.5, Rank: 3/42
 - *2021*, First Prize Scholarship, Shenzhen University
 - *2020*, Special Scholarship, Shenzhen University
 - *2019*, Full Scholarship, Visiting [Sophia University](https://www.sophia.ac.jp/eng/), Japan
