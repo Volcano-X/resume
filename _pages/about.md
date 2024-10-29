@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Machine Learning Algorithm Engineer at SenseTime Inc. Prior to this, I worked at Shenzhen University as a Research Assistant, where I developed the unsupervised graph machine learning method MRME. Before joining SenseTime, I earned my Master's degree (2020-2023) from the College of Computer Science & Software Engineering at Shenzhen University under the supervision of Prof. [Zhihui Lai](https://scholar.google.com/citations?hl=zh-CN&user=CkK6ULsAAAAJ), and my Bachelor's degree (2016-2020) from the School of Mathematical Sciences at Shenzhen University.
+I am currently a Machine Learning Algorithm Engineer at [SenseTime Inc](https://www.sensetime.com/cn). Prior to this, I worked at Shenzhen University as a Research Assistant, where I developed the unsupervised graph machine learning method MRME. Before joining SenseTime, I earned my Master's degree (2020-2023) from the [College of Computer Science & Software Engineering](https://csse.szu.edu.cn/) at Shenzhen University under the supervision of Prof. [Zhihui Lai](https://scholar.google.com/citations?hl=zh-CN&user=CkK6ULsAAAAJ), and my Bachelor's degree (2016-2020) from the [School of Mathematical Sciences](https://math.szu.edu.cn/) at Shenzhen University.
 
 My research interests include Machine Learning, Computer Vision, and Large Language Models.
 
@@ -75,13 +75,13 @@ Master Thesis, 2023
 
 - *2021*, GPA: 3.52 / 4.0, Rank: 8 / 69
 - *2019*, GPA: 4.03 / 4.5, Rank: 3 / 42
-- *2021*, 1nd Prize Scholarship, Shenzhen University
+- *2021*, First Prize Scholarship, Shenzhen University
 - *2020*, Special Scholarship, Shenzhen University
-- *2019*, Full Scholarship, Visiting [Sophia University](https://www.sophia.ac.jp/eng/) in Japan
+- *2019*, Full Scholarship, Visiting [Sophia University](https://www.sophia.ac.jp/eng/), Japan
 - *2019*, National Encouragement Scholarship, Shenzhen University
-- *2019*, Meritorious Winner, Mathematical Contest in Modeling (**Rate<6%**)
-- *2018*, 2nd Prize, National Undergraduate Mathematical Contest in Modeling (**Rate<2.3%**)
-- *2018*, 6nd Prize, Table Tennis Principal's Cup
+- *2019*, Meritorious Winner, Mathematical Contest in Modeling, America (**Rate<6%**)
+- *2018*, 2nd Prize, National Undergraduate Mathematical Contest in Modeling, China (**Rate<2.3%**)
+- *2018*, 6nd Prize, Table Tennis Principal's Cup, Shenzhen University
 
 # 📖 Education and Work
 
