@@ -17,42 +17,91 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Machine Learning Algorithm Engineer at SenseTime Inc. Prior to this, I worked at Shenzhen University as a Research Assistant, where I developed the unsupervised graph machine learning method MRME. Before joining SenseTime, I earned my Master's degree (2020-2023) from the College of Computer Science & Software Engineering at Shenzhen University under the supervision of Prof. [Zhihui Lai](https://scholar.google.com/citations?hl=zh-CN&user=CkK6ULsAAAAJ), and my Bachelor's degree (2016-2020) from the School of Mathematical Sciences at Shenzhen University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include Machine Learning, Computer Vision, and Large Language Models.
 
+Welcome to visit my [blog](https://volcano-x.github.io/blog/).
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Project
 
-# 📝 Publications 
+- *2024.05 - now*: 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+- *2021.09 - 2021.06*: 
+
+- *2019.09 - 2021.06*: 
+
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACPR</div><img src='images/LRCA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Low-Rank Correlation Analysis for Discriminative Subspace Learning.](https://www.researchgate.net/publication/360479584_Low-Rank_Correlation_Analysis_for_Discriminative_Subspace_Learning)\| [\[pdf\]](files/LRCA.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jiacan Zheng**, Zhihui Lai$^{*}$, Jianglin Lu, Jie Zhou
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Asian Conference on Pattern Recognition, 2022
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/MRME.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Diverse Graph Representation via Maximal Rate Minimal Energy.](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011556)\| [\[pdf\]](files/GMR.pdf)
+
+**Jiacan Zheng**, Jie Zhou
+
+Arxiv, 2023
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Master Thesis</div><img src='images/master_thesis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Unsupervised Representation Learning with Graph Structure Preservation.\| [\[pdf\]](files/图结构保持的无监督表示学习.pdf)
+
+**Jiacan Zheng**
+
+Master Thesis, 2023
+
+</div>
+</div>
+
+### others
+- [Generalized Multiview Regression for Feature Extraction.](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011556)  \| [\[pdf\]](files/GMR.pdf)
+- Graduation Thesis: Matrix Optimization Framework of Subspace Learning. \| [\[pdf\]](files/子空间学习的矩阵优化框架.pdf)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021*, GPA: 3.52 / 4.0, Rank: 8 / 69
+- *2019*, GPA: 4.03 / 4.5, Rank: 3 / 42
+- *2021*, 1nd Prize Scholarship, Shenzhen University
+- *2020*, Special Scholarship, Shenzhen University
+- *2019*, Full Scholarship, Visiting [Sophia University](https://www.sophia.ac.jp/eng/) in Japan
+- *2019*, National Encouragement Scholarship, Shenzhen University
+- *2019*, Meritorious Winner, Mathematical Contest in Modeling (**Rate<6%**)
+- *2018*, 2nd Prize, National Undergraduate Mathematical Contest in Modeling (**Rate<2.3%**)
+- *2018*, 6nd Prize, Table Tennis Principal's Cup
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📖 Education and Work
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- [Research Institute](https://www.sensetime.com/cn), SenseTime
+  - *2024.05 - now*, Machine Learning Algorithm Engineering
+
+- [Computer Vision Insitute](http://cv.szu.edu.cn/), Shenzhen University
+  - *2023.08 - 2024.03*, Research Assistant
+  - *2020.09 - 2023.06*, M.S. degree, **Computer Science and Technology**
+
+- [IAPR/IEEE Winter School on Biometrics](https://www.comp.hkbu.edu.hk/wsb2021/)
+  - *2021.01*, Participants
+
+- [Sophia University](https://www.sophia.ac.jp/eng/)
+  - *2019.01*, Visiting Student
+
+- [School of Mathematical Sciences](https://math.szu.edu.cn/), Shenzhen University
+  - *2016.09 - 2020.06*, Bachelor's degree, **Statistics**
+
+<!-- # 💻 Research Experiences -->
+<!-- - *2020.09 - 2023.06*, Reviewer for International Journal of Machine Learning and Cybernetics -->
+<!-- - *2020.09 - 2023.06*, [Computer Vision Insitute, Shenzhen University](http://cv.szu.edu.cn/) -->
+<!-- - *2021.01 - 2021.02*, [IAPR/IEEE Winter School on Biometrics](https://www.comp.hkbu.edu.hk/wsb2021/) -->
