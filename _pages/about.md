@@ -47,7 +47,7 @@ Asian Conference on Pattern Recognition, 2022
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/MRME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning Diverse Graph Representation via Maximal Rate Minimal Energy.](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011556)\| [\[pdf\]](files/GMR.pdf)
+[Learning Diverse Graph Representation via Maximal Rate Minimal Energy.]()\| [\[pdf\]](files/MRME.pdf)
 
 **Jiacan Zheng**, Jie Zhou
 
@@ -58,7 +58,7 @@ Arxiv, 2023
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Master Thesis</div><img src='images/master_thesis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Unsupervised Representation Learning with Graph Structure Preservation.\| [\[pdf\]](files/图结构保持的无监督表示学习.pdf)
+Unsupervised Representation Learning with Graph Structure Preservation. \| [\[pdf\]](files/图结构保持的无监督表示学习.pdf)
 
 **Jiacan Zheng**
 
