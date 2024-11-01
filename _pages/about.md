@@ -47,7 +47,7 @@ Asian Conference on Pattern Recognition, 2022
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/MRME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning Diverse Graph Representation via Maximal Rate Minimal Energy.]()\| [\[pdf\]](files/MRME.pdf)
+[Learning Diverse Graph Representation via Maximal Rate Minimal Energy.]()\| \[pdf\]
 
 **Jiacan Zheng**, Jie Zhou
 
@@ -68,8 +68,8 @@ Master Thesis, 2023
 </div>
 
 ### Others
-- [Generalized Multiview Regression for Feature Extraction.](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011556)  \| [\[pdf\]](files/GMR.pdf)
-- Graduation Thesis: Matrix Optimization Framework of Subspace Learning. \| [\[pdf\]](files/子空间学习的矩阵优化框架.pdf)
+- [Generalized Multiview Regression for Feature Extraction](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011556), Information Science.  \| [\[pdf\]](files/GMR.pdf)
+- Matrix Optimization Framework of Subspace Learning, Graduation Thesis. \| [\[pdf\]](files/子空间学习的矩阵优化框架.pdf)
 
 # 🎖 Honors and Awards
 
@@ -106,10 +106,7 @@ Master Thesis, 2023
   - *2023.08 - 2024.03*, Research Assistant
   - *2020.09 - 2023.06*, M.S. degree, **Computer Science and Technology**
 
-- [IAPR/IEEE Winter School on Biometrics](https://www.comp.hkbu.edu.hk/wsb2021/)
-  - *2021.01*, Participants
-
-- [Sophia University](https://www.sophia.ac.jp/eng/)
+- [Sophia University](https://www.sophia.ac.jp/eng/), Japan
   - *2019.01*, Visiting Student
 
 - [School of Mathematical Sciences](https://math.szu.edu.cn/), Shenzhen University
@@ -119,3 +116,5 @@ Master Thesis, 2023
 <!-- - *2020.09 - 2023.06*, Reviewer for International Journal of Machine Learning and Cybernetics -->
 <!-- - *2020.09 - 2023.06*, [Computer Vision Insitute, Shenzhen University](http://cv.szu.edu.cn/) -->
 <!-- - *2021.01 - 2021.02*, [IAPR/IEEE Winter School on Biometrics](https://www.comp.hkbu.edu.hk/wsb2021/) -->
+
+<!-- - *2021* [IAPR/IEEE Winter School on Biometrics](https://www.comp.hkbu.edu.hk/wsb2021/), Participants -->
