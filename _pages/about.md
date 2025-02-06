@@ -25,11 +25,11 @@ Welcome to visit my [blog](https://volcano-x.github.io/blog/).
 
 # 💻 Project
 
-- *2024.05 - now*: 
+- *2024.05 - now*: Document Layout Analysis, Table Structure Recognition
 
-- *2021.09 - 2021.06*: 
+- *2021.09 - 2023.06*: Graph Machine Learning, Graph Neural Network
 
-- *2019.09 - 2021.06*: 
+- *2019.09 - 2021.06*: Convex Optimization, Linear Algebra
 
 # 📝 Publications
 
